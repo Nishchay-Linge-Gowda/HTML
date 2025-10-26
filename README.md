@@ -20,11 +20,6 @@ This project demonstrates how renewable energy data can be made insightful, enga
 
 ---
 
-## 🧩 Project Structure  
-
-
----
-
 ## ⚙️ Tech Stack  
 
 | Category | Technologies |
